@@ -1,0 +1,14 @@
+{
+  "name": "robertcasanova-it",
+  "private": true,
+  "dependencies": {
+    "jquery": "~1.10.2"
+  },
+  "devDependencies": {
+    "modernizr": "~2.6.2",
+    "foundation": "~5.1.1"
+  },
+  "resolutions": {
+    "jquery": "~1.10.2"
+  }
+}
